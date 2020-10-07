@@ -1,4 +1,0 @@
-
-runtime: 
-  php73
-cloud_sql_instances: "proyecto-pruebas-291115:us-central1:prueba"
