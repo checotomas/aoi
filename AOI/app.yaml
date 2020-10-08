@@ -1,0 +1,14 @@
+
+runtime: 
+  php73
+
+service: 
+  default
+
+cloud_sql_instances: 
+  "proyecto-pruebas-291115:us-central1:prueba"
+
+env: flex
+
+runtime_config:
+document_root: web
