@@ -1,0 +1,15 @@
+
+runtime: 
+  php73
+
+service: 
+  default
+
+cloud_sql_instances: 
+  "strange-reducer-290223:us-central1:aoi-remote"
+
+
+env: flex
+
+runtime_config:
+document_root: web
